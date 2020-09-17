@@ -144,7 +144,7 @@ export default {
       right: true,
       rightDrawer: false,
       title: 'Vuetify.js',
-      logo: require('@/assets/images/humanitea-logo.png'),
+      logo: require('~/assets/images/humanitea-logo.png'),
     }
   },
   methods: {
